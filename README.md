@@ -23,4 +23,3 @@ The app allows users to view real-time weather information, search for any city,
 ---
 
 ## 🧩 Project Structure
-
